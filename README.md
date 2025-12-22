@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/rohitmunamarthi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:rohit27m@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"></a>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit;Welcome+to+my+GitHub+Profile!;Software+Developer+%7C+Tech+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit;Welcome+to+my+GitHub+Profile!;Software+Developer;Tech+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </h1>
 
 <p align="center">
