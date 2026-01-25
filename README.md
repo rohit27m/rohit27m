@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+Digital+Space+%F0%9F%9A%80;Building+Scalable+Solutions+%F0%9F%92%BB;Crafting+Clean+Code+%E2%9C%A8)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+Digital+Space+%F0%9F%9A%80;Building+Scalable+Solutions+%F0%9F%92%BB)](https://git.io/typing-svg)
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=rohit27m&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
